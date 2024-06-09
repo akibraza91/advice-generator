@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Goto](https://your-solution-url.com)
-- Live Site URL: [Visit!](https://your-live-site-url.com)
+- Solution URL: [Goto](https://www.frontendmentor.io/solutions/advice-generator-reactnextjs-VpxDXQ5RLv)
+- Live Site URL: [Visit!](https://akibraza91.github.io/advice-generator/)
 
 ## My process
 
@@ -39,7 +39,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
